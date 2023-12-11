@@ -1,4 +1,9 @@
 # PGproject
+
+data (v.2): 80240 pairs. Exclude all data labeled 'Acoustic guitar'.
+
+
+
 ## 資料預處理
 
 為了進行吉他破音去效果（de-effect）的研究，我們從 Positive Grid 公司獲得了一筆豐富的數據集。這些數據包括客戶在雲端儲存的以及經過PG公司效果器（plugin）產品處理後的音檔以及未經處理的原始音檔。依據 PG 原本的收集設定，我們將每個音檔精確地切割為四秒長度，形成了 13 萬對成對資料，總計 26 萬個音檔，並將相關信息輸入到 CSV 文件中進行組織和記錄。
