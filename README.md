@@ -1,6 +1,6 @@
 # PGproject
 
-data (v.2): 80240 pairs. Exclude all data labeled 'Acoustic guitar'.
+data (v.2): 80240 pairs. Exclude all output data labeled 'Acoustic guitar' and their input pairs.
 
 
 
